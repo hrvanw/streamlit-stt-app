@@ -1,4 +1,4 @@
-pkg-config=0.29.1
+pkg-config==0.29.1
 av==9.2.0
 deepspeech==0.9.3
 numpy==1.23.0
