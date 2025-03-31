@@ -3,6 +3,7 @@ certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
 colorama==0.4.3
+protobuf==3.6.1
 cryptography==2.8
 dbus-python==1.2.16
 distro==1.4.0
