@@ -4,7 +4,7 @@ chardet==3.0.4
 Click==7.0
 colorama==0.4.3
 cryptography
-dbus-python
+dbus-python==1.2.16
 distro==1.4.0
 distro-info
 entrypoints==0.3
