@@ -23,7 +23,6 @@ pbr==6.1.1
 pexpect==4.6.0
 Pillow==7.0.0
 protobuf==3.6.1
-pycairo
 pycups==1.9.73
 PyGObject==3.36.0
 PyJWT==1.7.1
