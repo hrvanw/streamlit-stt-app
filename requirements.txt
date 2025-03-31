@@ -2,7 +2,7 @@ blinker==1.4
 certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
-colorama==0.4.3
+colorama==0.4.4
 cryptography==2.8
 dbus-python==1.2.16
 distro==1.4.0
