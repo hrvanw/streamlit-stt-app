@@ -4,7 +4,6 @@ chardet==3.0.4
 Click==7.0
 colorama==0.4.3
 cryptography
-dbus-python
 distro==1.4.0
 distro-info
 entrypoints==0.3
@@ -48,3 +47,4 @@ pydub==0.25.1
 streamlit
 streamlit_webrtc==0.45.0
 twilio~=8.1.0
+
