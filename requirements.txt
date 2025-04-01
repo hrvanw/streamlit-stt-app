@@ -46,3 +46,5 @@ pydub==0.25.1
 streamlit
 streamlit_webrtc==0.45.0
 twilio~=8.1.0
+deepspeech==0.9.3
+
