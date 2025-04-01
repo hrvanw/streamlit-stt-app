@@ -8,7 +8,7 @@ distro==1.4.0
 distro-info
 entrypoints==0.3
 httplib2==0.14.0
-idna==2.8
+idna==3.10
 keyring==18.0.1
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
