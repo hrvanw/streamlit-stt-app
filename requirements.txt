@@ -4,7 +4,7 @@ chardet==3.0.4
 Click==7.0
 colorama==0.4.3
 cryptography
-distro==1.4.0
+distro==1.9.0
 distro-info
 entrypoints==0.3
 httplib2==0.14.0
